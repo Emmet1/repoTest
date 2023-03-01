@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 trying a merge conflict
+=======
+inserting a line 
+>>>>>>> 5605300 (second commit, have not pulled yet)
